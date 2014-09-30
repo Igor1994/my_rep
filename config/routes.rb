@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
   get 'hello/index_change'
 
-  get 'sec_page/index_sec'
-  
   get 'hello/index'
+
+  get 'my_con/new'  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
