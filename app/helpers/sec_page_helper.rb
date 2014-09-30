@@ -1,0 +1,2 @@
+module SecPageHelper
+end
